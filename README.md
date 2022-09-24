@@ -1,2 +1,6 @@
-# development-of-applications-for-data-analysis
-data analysis application development programs / programas de desarrollo de aplicaciones de análisis de datos
+# Practicas DAAD - Marco Rueda
+
+-En construccion- 
+
+Todos los archivos se pueden abrir con Jupyter, les recomiendo bajarse la extension en VS CODE y el kernel de python para poder usarlos correctamente
+
